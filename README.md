@@ -1,5 +1,5 @@
 # Django Login and Sign-up Page with Password Encryption - Setup
-
+- To access the admin panel use http://localhost:8000/admin
 ## Installation
 
 ### Prerequisites
